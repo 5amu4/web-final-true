@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color:black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  color:crimson;
+
+
+}
+.buy{
+  margin-right: 1000px;
+}
+.log{
+  margin-right: 1000px;
+}
+
+.candle{
+  background-size: contain ;
+  width: 90%;
+  height: 100%;
+
+}
+.prod{
+  height: 100vh;
+}
+
+.fot{
+  display: flex;
+  justify-content: center;
+ 
+  color: orange;
+  font-size: 20px;
+  margin-top: 5vh;
+}
+.prep{
+  margin: 20px;
+  margin-left: 100px;
+}
